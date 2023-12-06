@@ -1,4 +1,4 @@
-# Classification-of-Arrhythmia-using-ECG-Data
+# Classification of Arrhythmia using ECG Data
 CS-584 Machine Learning Project
 
 Submitted by: 
