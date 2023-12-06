@@ -24,7 +24,7 @@ We have 279 features, which include age, sex, weight, height of patients and oth
 As the dependent variable is a categorical variable we will be using classification models. The best way to do this is by comparing the precision and recall. 
 They are crucial evaluation metrics due to the unacceptable consequences of misclassifying an individual having Cardiac Arrhythmia as healthy person. We will prioritize identifying sick individuals over identifying healthy individuals.
 
-#Algorithm Used
+# Algorithm Used
 
 1. Algorithms Used
 2. KNN Classifier
