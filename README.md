@@ -19,7 +19,7 @@ They are crucial evaluation metrics due to the unacceptable consequences of misc
 
 1. Algorithms Used
 2. KNN Classifier
-3. Logestic Regression
+3. Logistic Regression
 4. Decision Tree Classifier
 5. Linear SVC
 6. Kernelized SVC
