@@ -1,5 +1,6 @@
 # Classification-of-Arrhythmia-using-ECG-Data
 CS-584 Machine Learning Project
+
 Submitted by: Rajanika Debnath, Vaishnavi Kadam, Nirbhay Rajgor
 
 Developed accurate and efficient machine learning algorithms for automated arrhythmia detection and classification.   The goal is to predict if a person is suffering from arrhythmia or not, and if yes, classify it in to one of the available groups.
