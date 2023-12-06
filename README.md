@@ -16,7 +16,7 @@ Among all these types of arrhythmias, the most representative are the "coronary 
 
 We have 279 features, which include age, sex, weight, height of patients and other related information. We explicitly observe that the number of features is relatively high compared to the number of examples we are available.
 
-#Evaluation strategy
+# Evaluation strategy
 As the dependent variable is a categorical variable we will be using classification models. The best way to do this is by comparing the precision and recall. 
 They are crucial evaluation metrics due to the unacceptable consequences of misclassifying an individual having Cardiac Arrhythmia as healthy person. We will prioritize identifying sick individuals over identifying healthy individuals.
 
